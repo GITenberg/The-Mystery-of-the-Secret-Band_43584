@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26346'
     url: http://www.gutenberg.org/2009/agents/26346
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43584#The-Mystery-of-the-Secret-Band
 gutenberg_issued: '2013-08-28'
 gutenberg_type: Text
 identifiers:
