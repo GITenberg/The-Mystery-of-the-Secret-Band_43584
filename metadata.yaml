@@ -1,0 +1,29 @@
+_repo: The-Mystery-of-the-Secret-Band_43584
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43584-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lavell, Edith
+    gutenberg_agent_id: '26346'
+    url: http://www.gutenberg.org/2009/agents/26346
+description: ''
+gutenberg_issued: '2013-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thieves -- Juvenile fiction'
+- !lcsh 'Teenage girls -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PZ'
+- !lcsh 'Children of police -- Juvenile fiction'
+- !lcsh 'Hotels -- Juvenile fiction'
+- !lcsh 'Women detectives -- Juvenile fiction'
+title: The Mystery of the Secret Band
+url: http://www.gutenberg.org/ebooks/43584
